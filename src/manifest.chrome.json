@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "AWS role switch http sidecar",
+  "permissions": [],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
